@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HemanthVerma an aeronautical engineer from INDIA
-- 👀 I’m a MACHINNE LEARNING enthusiast, COMPUTER VISION and its wide range of applications amusse me
+- 👀 I’m a MACHINE LEARNING enthusiast, COMPUTER VISION and its wide range of applications amusse me
 - 🌱 I’m currently working UAV's for Agriculture using Precision AGriculture, Machine Learning
 - 💞️ I’m looking to collaborate on artificial INtelligence and Machine Learning
 - 📫 How to reach me : mail me at pinnamaraju.hemanth18275@gmail.com
